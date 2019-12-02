@@ -1,0 +1,34 @@
+{
+	"type": "chargeTurret",
+	"name": "Energy Turret - Air",
+	"description": "Big energy gun for targetting air enemies",
+	"targetAir": true,
+	"targetGround": false,
+	"health": 1500,
+	"size": 2,
+	"inaccuracy": 1,
+	"chargeTime": 10,
+    "chargeMaxDelay": 190,
+    "chargeEffects": 9,
+	"recoil": 2,
+	"shootType": "lancerLaser"
+	"shootEffect": "lancerLaserShoot",
+    "smokeEffect": "lancerLaserShootSmoke",
+    "chargeEffect": "lancerLaserCharge",
+    "chargeBeginEffect": "lancerLaserChargeBegin",
+	"powerUse": 2.8,
+    "shootShake": 1.9
+	"reload": 50,
+	"shootCone": 80,
+	"shots": 2,
+	"range": 100,
+	"requirements": [
+		{ "item": "comp-titanium", "amount": 18 },
+		{ "item": "dark-steel", "amount": 70 }
+		{ "item": "tithorium", "amount": 25 },
+		{ "item": "enriched-uran", "amount": 5 }
+	],
+	"category": "turret"
+	"shootSound": "laser"
+	"research": "small-turret-1"
+}

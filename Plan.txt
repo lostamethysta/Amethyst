@@ -1,0 +1,21 @@
+amethyst
+
+
+amethyst turret 1:
+air
+long range
+low speed
+high damage
+
+
+air burst
+air
+short range
+fast speed
+low damage
+
+electrified air turret
+short range
+fast speed
+medium damage
+
