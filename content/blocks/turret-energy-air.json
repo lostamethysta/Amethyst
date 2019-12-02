@@ -23,12 +23,11 @@
 	"shots": 2,
 	"range": 100,
 	"requirements": [
-		{ "item": "comp-titanium", "amount": 18 },
-		{ "item": "dark-steel", "amount": 70 }
-		{ "item": "tithorium", "amount": 25 },
-		{ "item": "enriched-uran", "amount": 5 }
+		{ "item": "copper", "amount": 30 },
+		{ "item": "lead", "amount": 30 },
+		{ "item": "silicon", "amount": 25 }
 	],
 	"category": "turret"
 	"shootSound": "laser"
-	"research": "small-turret-1"
+	
 }
