@@ -3,12 +3,12 @@
 	"name": "Gem Separator",
 	"description": "Separates specific gems from gem ore",
 	"health": 2850,
-	"itemCapacity": 5,
+	"itemCapacity": 10,
 	"size": 2,
 	"hasPower": true,
 	"hasItems": true,
 	"hasLiquids": true,
-	"craftTime": 20,
+	"craftTime": 40,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
 		"power": 3.5,
@@ -28,7 +28,7 @@
 			{ "item": "amethyst", "amount": 5},
 			{ "item": "emerald", "amount": 3},
 			{ "item": "ruby", "amount": 2},
-			{ "item": "sapphire", "amount": 3}
+			{ "item": "sapphire", "amount": 1}
 	],
 	"category": "crafting"
 }
