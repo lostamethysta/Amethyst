@@ -1,13 +1,15 @@
 {
 	"type": "ArmoredConveyor",
 	"name": "Armored Amethyst conveyor",
-	"description": "Better than common conveyor, but worse than titanium",
+	"description": "",
 	"health": 55,
 	"requirements": [
-		{"item": "lead", "amount": 5},
-		{"item": "copper", "amount": 5}
+		{"item": "lead", "amount": 2},
+		{"item": "copper", "amount": 1},
+		{"item": "amethyst", "amount": 2},
+		{"item": "metaglass", "amount": 1}
 	],
 	"category": "distribution",
-	"speed": 0.05
+	"speed": 0.2
 	
 }
