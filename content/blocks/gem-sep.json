@@ -14,7 +14,7 @@
 		"power": 3.5,
 		"liquid": {
 			"liquid": "gem-sludge",
-			"amount": 1
+			"amount": 0.02
 		}
 		
 	},
