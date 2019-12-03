@@ -1,21 +1,18 @@
-amethyst
+To be added...
 
 
-amethyst turret 1:
-air
-long range
-low speed
-high damage
+Prismatic diamond - combines all gems into one rare super gemstone. Used for higher tier items. (inspired by bob20bob3)
+
+Crystal drill - similar to airblast, same size but requires more power. Requires cryofluid to cool, but high mining speed
+
+Supercharged gems - require power to "supercharge" into rarer items for higher tier items such as Laser Turrets or upgraded batteries
 
 
-air burst
-air
-short range
-fast speed
-low damage
+maybe...
 
-electrified air turret
-short range
-fast speed
-medium damage
+upgraded water extractor?
 
+
+If possible (not sure if these will work or not):
+
+Upgraded unloader, phase conveyor, bridges
