@@ -1,8 +1,8 @@
 {
 	"name": "Gem Sludge",
 	"description": "This Sludge contains valuable gemstones!",
-	"temperature": 1,
+	"temperature": 0.5,
     "viscosity": 0.8,
     "effect": "melting",
-    "color": "1c9346"
+    "color": "ffccdb"
 }
