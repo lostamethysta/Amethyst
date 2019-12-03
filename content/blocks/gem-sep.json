@@ -12,12 +12,8 @@
 	"updateEffect": "smeltsmoke",
 	"consumes": {
 		"power": 3.5,
-		"items": {
-			"items": [
-				{ "item": "gem-ore", "amount": 4 }
-			],}
 		"liquid": {
-			"liquid": "water",
+			"liquid": "gem-sludge",
 			"amount": 0.005
 		}
 		
