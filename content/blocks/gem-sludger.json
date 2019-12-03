@@ -18,9 +18,14 @@
 					"items": [
 						{ "item": "gem-ore", "amount": 4 }
 					]
+		},
+		"liquid": {
+					"liquid": "water",
+					"amount": 0.01
 		}
 		
 	},
+	"category": "crafting",
 	"requirements": [
 		{ "item": "copper", "amount": 20 },
 		{ "item": "lead", "amount": 20 },
