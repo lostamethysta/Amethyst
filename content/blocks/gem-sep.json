@@ -1,0 +1,34 @@
+{
+	"type": "separator",
+	"name": "Gem Separator",
+	"description": "Separates specific gems from gem ore",
+	"health": 2850,
+	"itemCapacity": 5,
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"hasLiquids": false,
+	"craftTime": 20,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 3.5,
+		"items": {
+			"items": [
+				{ "item": "gem-ore", "amount": 4 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 20 },
+		{ "item": "lead", "amount": 20 },
+		{ "item": "titanium", "amount": 40 },
+		{ "item": "silicon", "amount": 20 }
+	],
+	"results": [
+			{ "item": "amethyst", "amount": 5},
+			{ "item": "emerald", "amount": 3},
+			{ "item": "ruby", "amount": 2},
+			{ "item": "sapphire", "amount": 3}
+	],
+	"category": "crafting"
+}
