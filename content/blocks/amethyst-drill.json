@@ -10,7 +10,13 @@
 	"drawRim": true
 	"updateEffectChance": 0.03
 	"consumes": {
-		"power": 30.0
+		"power": 30.0,
+		"liquid": {
+					"liquid": "water",
+					"amount": 0.03,
+					"optional": true,
+					"booster": true
+		}
 	},
 	"requirements": [
 		{ "item": "amethyst", "amount": 100 },

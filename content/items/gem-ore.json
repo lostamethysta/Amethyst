@@ -1,5 +1,5 @@
 {
-	"type": "material",
+	"type": "resource",
 	"name": "Gem Ore",
 	"description": "Gem Ore - separates to form Amethyst, Emerald, Sapphire, and Rubies",
 	"hardness": 4,
