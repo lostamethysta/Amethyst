@@ -7,6 +7,6 @@
 		{ "item": "amethyst", "amount": 40 },
 		{ "item": "silicon", "amount": 20 }
 	],
-	"category": "storage",
+	"category": "effect",
 	"speed": 1
 }
