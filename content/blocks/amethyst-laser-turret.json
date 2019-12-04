@@ -5,11 +5,11 @@
 	"targetAir": true,
 	"targetGround": true,
 	"health": 2000,
-	"size": 3,
-	"reload": 10,
+	"size": 4,
+	"reload": 1,
 	"shootCone": 20,
 	"shootType": "meltdownLaser"
-	"powerUse": 8.3,
+	"powerUse": 25,
 	"range": 240,
 	"shootShake": 3
 	"firingMoveFract": 0.5
@@ -22,7 +22,7 @@
 		{ "item": "super-amethyst", "amount": 25 },
 		{ "item": "titanium", "amount": 120 },
 		{ "item": "thorium", "amount": 150 },
-		{ "item": "surge-alloy", "amount": 120 }
+		{ "item": "surge-alloy", "amount": 325 }
 	],
 	"category": "turret"
 }
