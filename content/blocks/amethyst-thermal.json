@@ -2,7 +2,7 @@
 	"type": "ThermalGenerator",
 	"name": "Amethyst Thermal Generator",
 	"description": "Uses the power of the Supercharged Amethyst to generate thermal power",
-	"size": 3,
+	"size": 2,
 	"requirements": [
 			{ "item": "super-amethyst", "amount": 10 },
 			{ "item": "titanium", "amount": 50 },
