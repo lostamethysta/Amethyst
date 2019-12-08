@@ -13,7 +13,7 @@
 	"rotatespeed": 5,
 	"shootType": "meltdownLaser",
 	"powerUse": 27,
-	"range": 240,
+	"range": 280,
 	"shots": 2,
 	"shootShake": 3
 	"firingMoveFract": 0.25,
