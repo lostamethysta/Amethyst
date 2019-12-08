@@ -5,7 +5,7 @@
 	"size": 3,
 	"health": 35000,
 	"tier": 5,
-	"drillTime": 40,
+	"drillTime": 20,
 	"rotateSpeed": 12,
 	"drawRim": true
 	"updateEffectChance": 0.03
