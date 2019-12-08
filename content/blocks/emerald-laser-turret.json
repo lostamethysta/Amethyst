@@ -15,7 +15,7 @@
 	"shootShake": 3
 	"firingMoveFract": 0.25,
 	"shootDuration": 200,
-	"recoil": 1,
+	"recoil": 0.9,
 	"shootSound": "laserbig",
 	"shootEffect": "shootBigSmoke2",
 	"activeSound": "beam"

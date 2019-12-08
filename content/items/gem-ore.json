@@ -4,7 +4,7 @@
 	"description": "Gem Ore - separates to form Amethyst, Emerald, Sapphire, and Rubies",
 	"hardness": 4,
 	"cost": 1,
-	"color": "#f9afd4",
+	"color": "#976c76",
 	"radioactivity": 0.0
 	"explosiveness": 0.0
 	"flammability": 0.0
