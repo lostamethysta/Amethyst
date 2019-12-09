@@ -1,14 +1,14 @@
 {
 	"type": "Conveyor",
-	"name": "Emerald conveyor",
+	"name": "Amethyst conveyor",
 	"description": "",
-	"health": 200,
+	"health": 55,
 	"requirements": [
 		{"item": "lead", "amount": 1},
 		{"item": "copper", "amount": 1},
-		{"item": "emerald", "amount": 1}
+		{"item": "amethyst", "amount": 1}
 	],
 	"category": "distribution",
-	"speed": 0.35
+	"speed": 0.2
 	"research": "armored-conveyor"
 }

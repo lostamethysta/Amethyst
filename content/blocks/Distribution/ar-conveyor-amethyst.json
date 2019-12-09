@@ -1,8 +1,8 @@
 {
 	"type": "ArmoredConveyor",
-	"name": "Armored Emerald conveyor",
+	"name": "Armored Amethyst conveyor",
 	"description": "",
-	"health": 400,
+	"health": 200,
 	"requirements": [
 		{"item": "lead", "amount": 2},
 		{"item": "copper", "amount": 1},
@@ -10,6 +10,6 @@
 		{"item": "metaglass", "amount": 1}
 	],
 	"category": "distribution",
-	"speed": 0.35
-	
+	"speed": 0.2
+
 }

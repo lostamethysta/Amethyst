@@ -1,0 +1,14 @@
+{
+	"type": "Conveyor",
+	"name": "Emerald conveyor",
+	"description": "",
+	"health": 55,
+	"requirements": [
+		{"item": "lead", "amount": 1},
+		{"item": "copper", "amount": 1},
+		{"item": "emerald", "amount": 1}
+	],
+	"category": "distribution",
+	"speed": 0.27
+	"research": "armored-conveyor"
+}
