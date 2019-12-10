@@ -1,0 +1,14 @@
+{
+	"type": "ThermalGenerator",
+	"name": "Sapphire Thermal Generator",
+	"description": "Uses the power of the Supercharged Sapphire to generate thermal power",
+	"size": 2,
+	"requirements": [
+			{ "item": "super-sapphire", "amount": 10 },
+			{ "item": "titanium", "amount": 50 },
+			{ "item": "thorium", "amount": 100 },
+			{ "item": "surge-alloy", "amount": 10 }
+	],
+	"powerProduction": 8.5,
+	"category": "power"
+	}

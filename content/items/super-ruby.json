@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "Supercharged Ruby",
+	"description": "Ruby charged with energy",
+	"hardness": 10,
+	"cost": 35,
+	"color": "#4c0011",
+	"radioactivity": 0.0
+	"explosiveness": 0.0
+	"flammability": 0.0
+}

@@ -1,0 +1,25 @@
+{"type": "GenericSmelter",
+	"name": "[blue]Sapphire Supercharger"
+	"description": "Use this machine to get supercharged sapphire",
+	"health": 4000,
+	"itemCapacity": 6,
+	"outputItem": {"item": "super-sapphire", "amount": 1},
+	"size": 3,
+	"hasPower": true,
+	"hasItems": true,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 31,
+		"items": {
+			"items": [
+				{ "item": "sapphire", "amount": 1 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "thorium", "amount": 300 },
+		{ "item": "titanium", "amount": 300 },
+		{ "item": "silicon", "amount": 200 },
+		{ "item": "surge-alloy", "amount": 150 }
+	],
+	"category": "crafting",}
