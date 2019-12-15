@@ -1,0 +1,12 @@
+{
+	type: Router
+	name: Amethyst Router
+	description:
+	health: 20
+	requirements: [
+		copper/3
+		amethyst/3
+	]
+	category: distribution
+	speed: 10
+}
