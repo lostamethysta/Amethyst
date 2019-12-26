@@ -2,7 +2,7 @@
 	"type": "separator",
 	"name": "Gem Separator",
 	"description": "Separates specific gems from gem ore",
-	"health": 2850,
+	"health": 1000,
 	"itemCapacity": 10,
 	"size": 2,
 	"hasPower": true,

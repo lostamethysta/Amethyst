@@ -2,7 +2,7 @@
 	"type": "GenericCrafter",
 	"name": "Gem Sludger",
 	"description": "Prepares gem ore to be processed in Gem Separator",
-	"health": 2850,
+	"health": 1000,
 	"itemCapacity": 10,
 	"liquidCapacity": 12,
 	"outputLiquid": {"liquid": "gem-sludge", "amount": 2},
@@ -16,14 +16,14 @@
 		"power": 3.5,
 		"items": {
 					"items": [
-						{ "item": "gem-ore", "amount": 4 }
+						{ "item": "gem-ore", "amount": 2 }
 					]
 		},
 		"liquid": {
 					"liquid": "water",
 					"amount": 0.15
 		}
-		
+
 	},
 	"category": "crafting",
 	"requirements": [
