@@ -1,6 +1,9 @@
 {
-  "name": "Amethyst",
-  "author": "LostAmethyst",
-  "description": "[pink]Mod adding various gems with upgraded blocks!",
-  "version": "0.4"
+  "displayName": "[purple]Amethyst [pink]Remixed",
+  "name": "Amethyst - Remixed",
+  "author": "lostamethysta",
+  "description": "[pink]Mod adding various gems with upgraded blocks! Updated to work with newer versions of Mindustry",
+  "version": "1.00",
+
+  "minGameVersion": "134.1"
 }

@@ -1,11 +1,15 @@
 {
-	"type": "material",
-	"name": "Emerald",
+	"localizedName": "Emerald",
 	"description": "Emerald",
-	"hardness": 3,
-	"cost": 3,
 	"color": "#0a8b41",
-	"radioactivity": 0.0
-	"explosiveness": 0.0
-	"flammability": 0.0
+
+	"cost": 3,
+
+	"hardness": 3,
+	"lowpriority": false,
+
+	"explosiveness": 0.0,
+	"flammability": 0.0,
+	"radioactivity": 0.0,
+	"charge": 0.0
 }
