@@ -1,11 +1,15 @@
 {
-	"type": "material",
-	"name": "Supercharged Sapphire",
+	"localizedName": "Supercharged Sapphire",
 	"description": "Sapphire charged with energy",
-	"hardness": 10,
-	"cost": 45,
 	"color": "#00128b",
-	"radioactivity": 0.0
-	"explosiveness": 0.0
-	"flammability": 0.0
+
+	"cost": 45,
+
+	"hardness": 10,
+	"lowpriority": false,
+
+	"explosiveness": 0.0,
+	"flammability": 0.0,
+	"radioactivity": 0.5,
+	"charge": 0.9
 }

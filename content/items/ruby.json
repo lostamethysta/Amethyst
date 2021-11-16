@@ -1,11 +1,15 @@
 {
-	"type": "material",
-	"name": "Ruby",
+	"localizedName": "Ruby",
 	"description": "Ruby",
-	"hardness": 3,
-	"cost": 3,
 	"color": "#df2312",
-	"radioactivity": 0.0
-	"explosiveness": 0.0
-	"flammability": 0.0
+
+	"cost": 3,
+
+	"hardness": 3,
+	"lowpriority": false,
+
+	"explosiveness": 0.0,
+	"flammability": 0.0,
+	"radioactivity": 0.0,
+	"charge": 0.0
 }
