@@ -1,0 +1,14 @@
+{
+	"type": "Conveyor",
+	"name": "Ruby conveyor",
+	"description": "",
+	"health": 55,
+	"requirements": [
+		{"item": "lead", "amount": 1},
+		{"item": "copper", "amount": 1},
+		{"item": "ruby", "amount": 1}
+	],
+	"category": "distribution",
+	"speed": 0.34
+	"research": "armored-conveyor"
+}

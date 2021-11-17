@@ -1,0 +1,15 @@
+{
+	"localizedName": "Supercharged Ruby",
+	"description": "Ruby charged with energy",
+	"color": "#70120a",
+
+	"cost": 35,
+
+	"hardness": 10,
+	"lowpriority": false,
+
+	"explosiveness": 0.0,
+	"flammability": 0.0,
+	"radioactivity": 0.4,
+	"charge": 0.5
+}

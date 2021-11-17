@@ -1,0 +1,15 @@
+{
+	"localizedName": "Supercharged Amethyst",
+	"description": "Amethyst charged with energy",
+	"color": "#432a5a",
+
+	"cost": 20,
+
+	"hardness": 10,
+	"lowpriority": false,
+
+	"explosiveness": 0.0,
+	"flammability": 0.0,
+	"radioactivity": 0.2,
+	"charge": 0.3
+}

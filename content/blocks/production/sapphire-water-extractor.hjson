@@ -1,0 +1,21 @@
+{
+	type: SolidPump
+	name: Sapphire Water Extractor
+	description: Upgraded water extractor - uses more electricty to produce more water
+	health: 100
+	requirements: [
+		lead/100
+		copper/145
+		graphite/25
+		sapphire/15
+	]
+	hasPower: true
+	consumes: {
+	power:3
+	}
+	category: production
+	size: 3
+	pumpAmount: 2
+	attribute: water
+	result: water
+}

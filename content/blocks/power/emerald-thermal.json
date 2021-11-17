@@ -1,0 +1,14 @@
+{
+	"type": "ThermalGenerator",
+	"name": "Emerald Thermal Generator",
+	"description": "Uses the power of the Supercharged Emerald to generate thermal power",
+	"size": 2,
+	"requirements": [
+			{ "item": "super-emerald", "amount": 10 },
+			{ "item": "titanium", "amount": 50 },
+			{ "item": "thorium", "amount": 100 },
+			{ "item": "surge-alloy", "amount": 10 }
+	],
+	"powerProduction": 5.5,
+	"category": "power"
+	}

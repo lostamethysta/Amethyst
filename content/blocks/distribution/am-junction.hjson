@@ -1,0 +1,12 @@
+{
+	type: Junction
+	name: Amethyst Junction
+	description:
+	health: 20
+	requirements: [
+		copper/1
+		amethyst/1
+	]
+	category: distribution
+	speed: 10
+}

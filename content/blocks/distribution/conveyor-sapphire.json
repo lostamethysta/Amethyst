@@ -1,0 +1,14 @@
+{
+	"type": "Conveyor",
+	"name": "Sapphire conveyor",
+	"description": "",
+	"health": 55,
+	"requirements": [
+		{"item": "lead", "amount": 1},
+		{"item": "copper", "amount": 1},
+		{"item": "sapphire", "amount": 1}
+	],
+	"category": "distribution",
+	"speed": 0.41
+	"research": "armored-conveyor"
+}

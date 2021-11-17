@@ -1,0 +1,14 @@
+{
+	type: SolarGenerator
+	name: Emerald Solar Panel
+	description:
+	health: 200
+	requirements: [
+		lead/100
+		silicon/145
+		super-emerald/15
+	]
+	category: power
+	size: 3
+	powerProduction: 1.5
+}

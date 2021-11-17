@@ -1,0 +1,28 @@
+{
+	"name": "Emerald Drill",
+	"description": "Better Version of Laser Drill",
+	"type": "Drill",
+	"size": 3,
+	"health": 35000,
+	"tier": 7,
+	"drillTime": 5,
+	"rotateSpeed": 30,
+	"drawRim": true
+	"updateEffectChance": 0.03
+	"consumes": {
+		"power": 6.0,
+		"liquid": {
+					"liquid": "water",
+					"amount": 0.03,
+					"optional": true,
+					"booster": true
+		}
+	},
+	"requirements": [
+		{ "item": "emerald", "amount": 100 },
+		{ "item": "copper", "amount": 100},
+		{ "item": "lead", "amount": 50 },
+		{ "item": "silicon", "amount": 30 }
+	],
+	"category": "production"
+}

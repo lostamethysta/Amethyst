@@ -1,0 +1,11 @@
+
+{
+	"type": "OreBlock",
+	"localizedName": "Gem Ore"
+	"itemDrop": "gem-ore",
+	"emitLight": true,
+	"lightRadius": 14,
+	"lightColor": "#D8FFFF",
+
+	"playerUnmineable": true
+}

@@ -1,0 +1,29 @@
+{
+	"type": "chargeTurret",
+	"name": "Amethyst Laser Turret",
+	"description": "Turret powered by the supercharged amethyst",
+	"targetAir": true,
+	"targetGround": true,
+	"health": 2000,
+	"size": 4,
+	"reload": 20,
+	"shootCone": 20,
+	"rotatespeed": 5,
+	"shootType": "meltdownLaser",
+	"powerUse": 25,
+	"range": 240,
+	"shootShake": 3
+	"firingMoveFract": 0.25,
+	"shootDuration": 100,
+	"recoil": 1,
+	"shootSound": "laserbig",
+	"shootEffect": "shootBigSmoke2",
+	"activeSound": "beam"
+	"requirements": [
+		{ "item": "super-amethyst", "amount": 25 },
+		{ "item": "titanium", "amount": 120 },
+		{ "item": "thorium", "amount": 150 },
+		{ "item": "surge-alloy", "amount": 325 }
+	],
+	"category": "turret"
+}

@@ -1,0 +1,12 @@
+{
+	"type": "unloader",
+	"name": "Amethyst Unloader",
+	"description": "Upgraded unloader to keep up with the amethyst belts",
+	
+	"requirements": [
+		{ "item": "amethyst", "amount": 40 },
+		{ "item": "silicon", "amount": 20 }
+	],
+	"category": "effect",
+	"speed": 1
+}

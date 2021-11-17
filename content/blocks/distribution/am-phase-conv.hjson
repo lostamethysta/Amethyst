@@ -1,0 +1,22 @@
+{
+	type: ItemBridge
+	name: Amethyst Phase Conveyor
+	description:
+	health: 200
+	requirements: [
+		phase-fabric/5,
+		silicon/7,
+		lead/10,
+    super-amethyst/10,
+		graphite/10
+	]
+  consumes: {
+  power: 0.35
+  }
+	category: distribution
+	speed: 20
+  range: 18
+  bufferCapacity: 50
+  itemCapacity: 50
+  transportTime: 0.4
+}
